@@ -6,14 +6,14 @@ Watch my "[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 
 ## Project Source Code
 * [Hangman Game](https://github.com/Dlin163/sc-project/blob/main/stanCode_Projects/hangman_game/hangman.py)
-   * python semantic & syntax
-* [Weather Master](https://github.com/Dlin163/sc-project/blob/main/stanCode_Projects/weather_master.py)
  * python semantic & syntax
-* [Pedestrian Removing Application](https://github.com/Dlin163/sc-project/blob/main/stanCode_Projects/my_photoshop/stanCodoshop.py)
- * image processing
+* [Weather Master](https://github.com/Dlin163/sc-project/blob/main/stanCode_Projects/weather_master.py)
+  * python semantic & syntax
+* [Pedestrian Removing Application]
+  * python semantic & syntax
 * [Breakout Game](https://github.com/Dlin163/sc-project/blob/main/stanCode_Projects/break_out_game/breakout.py)
- * animation & game designing
+  * python semantic & syntax
 * [Name Popularity Searching System](https://github.com/Dlin163/sc-project/blob/main/stanCode_Projects/name_searching_system/babygraphics.py)
- * data structure
+  * python semantic & syntax
 * [Boggie Game Solver](https://github.com/Dlin163/sc-project/blob/main/stanCode_Projects/boggle_game_solver/boggle.py)
- * recursive functions
+  * python semantic & syntax
