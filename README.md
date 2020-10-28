@@ -10,10 +10,11 @@ Watch my "[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 * [Weather Master](https://github.com/Dlin163/sc-project/blob/main/stanCode_Projects/weather_master.py)
   * python semantic & syntax
 * [Pedestrian Removing Application](https://github.com/Dlin163/sc-project/blob/main/stanCode_Projects/my_photoshop/stanCodoshop.py)
-  * python semantic & syntax
+  * image processing
 * [Breakout Game](https://github.com/Dlin163/sc-project/blob/main/stanCode_Projects/break_out_game/breakout.py)
-  * python semantic & syntax
+  * animation & gaming
 * [Name Popularity Searching System](https://github.com/Dlin163/sc-project/blob/main/stanCode_Projects/name_searching_system/babygraphics.py)
-  * python semantic & syntax
+  * data structure
 * [Boggie Game Solver](https://github.com/Dlin163/sc-project/blob/main/stanCode_Projects/boggle_game_solver/boggle.py)
-  * python semantic & syntax
+  * recursive function
+  
