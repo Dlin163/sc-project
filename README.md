@@ -6,10 +6,10 @@ Watch my "[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 
 ## Project Source Code
 * [Hangman Game](https://github.com/Dlin163/sc-project/blob/main/stanCode_Projects/hangman_game/hangman.py)
- * python semantic & syntax
+  * python semantic & syntax
 * [Weather Master](https://github.com/Dlin163/sc-project/blob/main/stanCode_Projects/weather_master.py)
   * python semantic & syntax
-* [Pedestrian Removing Application]()https://github.com/Dlin163/sc-project/blob/main/stanCode_Projects/my_photoshop/stanCodoshop.py
+* [Pedestrian Removing Application](https://github.com/Dlin163/sc-project/blob/main/stanCode_Projects/my_photoshop/stanCodoshop.py)
   * python semantic & syntax
 * [Breakout Game](https://github.com/Dlin163/sc-project/blob/main/stanCode_Projects/break_out_game/breakout.py)
   * python semantic & syntax
